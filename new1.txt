@@ -1,4 +1,5 @@
 main()
 {
-printf("GOOD MORNING");
+scanf();
+printf();
 }
